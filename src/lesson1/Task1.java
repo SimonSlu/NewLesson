@@ -7,8 +7,8 @@ public class Task1 {
         int c;
 
         c = a;
-        a=b;
-        b=c;
+        a = b;
+        b = c;
 
         System.out.println("Значение а: " + a + " значение b: " + b);
     }
