@@ -13,7 +13,7 @@ public class Task2 {
         char o = 'o';
         char n = 'n';
 
-        System.out.print(s);
+        System.out.print(s+ "" + i +m);
         System.out.print(i);
         System.out.print(m);
         System.out.print(o);
