@@ -13,6 +13,7 @@ public class Task2 {
             System.out.printf("Введи %d элемент массива \n", (i+1));
             arr[i] = sc.nextInt();
         }
+        sc.close();
 
         for (int i = 0; i < arr.length; i++){
             if (i == 0){
