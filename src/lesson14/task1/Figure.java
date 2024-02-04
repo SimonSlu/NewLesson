@@ -1,6 +1,6 @@
 package lesson14.task1;
 
-public class Figure {
+public abstract class Figure {
     private int size;
 
     public int getSize(){
@@ -10,7 +10,7 @@ public class Figure {
         this.size = size;
     }
 
-    public void draw (){
+    public abstract void draw ();
 
-    }
+
 }
