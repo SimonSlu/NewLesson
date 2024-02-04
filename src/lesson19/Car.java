@@ -22,8 +22,8 @@ public class Car {
 
     @Override
     public String toString() {
-        return  "number: " + number + '\'' +
-                "model: " + model + '\'';
+        return  "number: " + number +
+                "model: " + model;
     }
 
     @Override
