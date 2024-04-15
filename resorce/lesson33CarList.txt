@@ -1,0 +1,3 @@
+white;Pixy;A063AP063
+black;Pixy;A163AP163
+Yellow;Pixy;beatles
